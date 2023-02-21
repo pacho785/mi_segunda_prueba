@@ -1,0 +1,14 @@
+h1{ background-color: rgb(143, 84, 16);
+    color:rgb(253, 253, 253);
+    font-family: 'Mynerve', cursive;
+text-align: center;}
+h2{color:rgb(235, 112, 112);
+    font-family: 'Caveat', cursive;
+text-align: center;}
+h3{color:rgb(238, 120, 120);
+    font-family: 'Caveat', cursive;
+    text-align: center;}
+h4{
+    color:rgb(255, 255, 255);
+    text-align:center;}
+    body{ background-color: rgb(0, 0, 0);}
